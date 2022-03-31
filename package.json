@@ -4,7 +4,7 @@
   "description": "SIPD Import SSH Automation",
   "repository": {
     "type": "git",
-    "url": "git://github.com/agungdh/sipd-import-ssh-automation.git"
+    "url": "https://github.com/agungdh/sipd-import-ssh-automation"
   },
   "main": "index.js",
   "scripts": {
