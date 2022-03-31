@@ -1,7 +1,11 @@
 {
   "name": "sipd-import-ssh-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "SIPD Import SSH Automation",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agungdh/sipd-import-ssh-automation.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.0",
+    "exceljs": "^4.3.0",
     "puppeteer": "^13.5.1",
     "puppeteer-video-recorder": "^1.0.5"
   }
